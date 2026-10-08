@@ -14,4 +14,4 @@ The lead fills in owners and replaces “Add page link” with a link when each 
 | Authority | Assign owner | Add page link |
 | Liking | Assign owner | Add page link |
 | Scarcity | Assign owner | Add page link |
-| Unity | Assign owner | Add page link |
+| Unity | Jay Ortega | [Unity](unity.md) |
